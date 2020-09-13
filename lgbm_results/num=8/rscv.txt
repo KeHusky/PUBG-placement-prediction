@@ -1,0 +1,2 @@
+best_params_: {'reg_lambda': 0.1, 'reg_alpha': 0.001, 'num_leaves': 90, 'n_estimators': 380, 'min_child_weight': 13, 'min_child_samples': 12, 'max_depth': 9, 'feature_fraction': 0.6, 'bagging_fraction': 0.6}
+best_score_:  -0.004155495660998285

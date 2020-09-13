@@ -1,0 +1,2 @@
+Random SearchCV:  43.13388538360596
+training time:  3.5096142292022705

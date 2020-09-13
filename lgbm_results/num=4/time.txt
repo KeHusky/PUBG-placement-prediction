@@ -1,0 +1,3 @@
+feature engineering: 63.308390378952026
+Random SearchCV:  9965.702198266983
+trainning time:  506.54861187934875
